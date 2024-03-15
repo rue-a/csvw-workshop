@@ -4,6 +4,10 @@ Among researchers, the CSV format is commonly chosen to publish or archive tabul
 
 The workshop participants will implement functions that allow the import and export of CSV/CSVW data pairs for DataFrame objects of Python's pandas library. To solve this task, they will be made aware of the shortcomings of the CSV format and become acquainted with (a subset) of the CSVW standard.
 
+## Task
+
+Implement two python methods to import and export CSV/CSVW pairs into and from `pandas.DataFrame` objects. Suggestions of function bodies are defined in `python/read_csv_metadata.py` and `python/write_csv_metadata.py`. Find test data in the `data` folder.
+
 
 ## Materials
 
@@ -34,26 +38,30 @@ The workshop participants will implement functions that allow the import and exp
 
 ### CSVW
 
-CSVW is designed to not only describe CSV data file, but to also validate its contents and allow the transformation of the data into linked data formats. Additionally, CSVW allows describing multiple CSVs with one CSVW file; including the relations between the described files, by the means of primary and foreign keys.
+CSVW defines a schema to describe CSV files with an accompanying JSON-LD file.
 
-#### Links:
+CSVW is designed to not only describe CSV data file, but to also validate its contents and allow the transformation of the data into linked data formats. Additionally, CSVW allows describing multiple CSVs with one CSVW file; including the relations between the described files, by the means of primary and foreign keys.
 
 - Overview of the documents produced by the CSVW Working Group: https://www.w3.org/2013/csvw/wiki/Main_Page.html
 - Short introduction to the why and how: https://www.stevenfirth.com/csv-on-the-web-an-introduction/
+- JSON-LD: https://json-ld.org/
 
 
-This workshop focuses on the subset of CSVW that allows to describe the dialect, general metadata and the tables columns in detail:
+__This workshop focuses on the subset of CSVW that allows to describe the dialect, general metadata and the tables columns in detail. We also disregard the option to describe multiple CSVs in one CSVW file.__
 
-![](subset.svg)
+CSVW-Subset:
+![](assets/subset.svg)
+CSVW-Full: https://www.w3.org/TR/tabular-metadata/#metadata-format
+
+#### Problems with CSVW
+
+The dialect object cannot handle footer rows.
 
 ### Related Projects/Tools (non-exhaustive)
 
 - Python CSVW package (read/write/validate csv(w) and convert to frictionless data package): https://github.com/cldf/csvw 
 - R-language data.frame metadata: https://dataset.dataobservatory.eu/ 
 - CSV-X (describe any csv, regardless of its weirdness): https://ieeexplore.ieee.org/document/7917195 
-- rictionlessdata.io supports CSV-Dialect: https://specs.frictionlessdata.io/csv-dialect/#language 
+- Frictionlessdata.io supports CSV-Dialect: https://specs.frictionlessdata.io/csv-dialect/#language 
 
-## Data Sources
-
-Bruttoanlageninvestitionen - kreisfreie Städte und Kreise -Jahr: https://www.govdata.de/web/guest/suchen/-/details/bruttoanlageninvestitionen-kreisfreie-stadte-und-kreise-jahr-1, https://www.landesdatenbank.nrw.de/ldbnrwws/downloader/00/tables/44211-11i_00.csv
 
