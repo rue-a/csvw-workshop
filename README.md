@@ -1,13 +1,16 @@
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
 # Workshop – (F.A.)I.R. tabular data for Pythons pandas library
 
-Among researchers, the CSV format is commonly chosen to publish or archive tabular research data. Although widely known, open, and readable without specific software, parsing CSV-formatted data is error-prone. This is due to a severely lacking formalization of the format, resulting in a proliferation of formatting practices, where the choice of the separating character (,``, ;, \t`, etc.) is just the tip of the iceberg. Additionally, the format does not offer standardized methods to incorporate metadata – including the vital information about the table’s columns, such as descriptions, units, data formats, etc. The W3C recommendation [CSV on the Web (CSVW)](https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/) overcomes these limitations by introducing a method to produce CSV-accompanying JSON documents that contain this missing information, thus rendering CSV files interoperable and reusable (according to the [FAIR principles](https://www.go-fair.org/fair-principles/)).
+Among researchers, the CSV format is commonly chosen to publish or archive tabular research data. Although widely known, open, and readable without specific software, parsing CSV-formatted data is error-prone. This is due to a severely lacking formalization of the format, resulting in a proliferation of formatting practices, where the choice of the separating character (`,`, `;`, `\t`, etc.) is just the tip of the iceberg. Additionally, the format does not offer standardized methods to incorporate metadata – including the vital information about the table’s columns, such as descriptions, units, data formats, etc. The W3C recommendation [CSV on the Web (CSVW)](https://www.w3.org/TR/2015/REC-tabular-data-model-20151217/) overcomes these limitations by introducing a method to produce CSV-accompanying JSON documents that contain this missing information, thus rendering CSV files interoperable and reusable (according to the [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
 The workshop participants will implement functions that allow the import and export of CSV/CSVW data pairs for DataFrame objects of Python's pandas library. To solve this task, they will be made aware of the shortcomings of the CSV format and become acquainted with (a subset) of the CSVW standard.
 
 ## Task
 
-Implement two python methods to import and export CSV/CSVW pairs into and from `pandas.DataFrame` objects. Suggestions of function bodies are defined in `python/read_csv_metadata.py` and `python/write_csv_metadata.py`. Find test data in the `data` folder.
+Implement two python methods to import and export CSV/CSVW pairs into and from `pandas.DataFrame` objects. Suggestions of function bodies are defined in `python/read_csv_metadata.py` and `python/write_csv_metadata.py`. Find example data in the `data` folder.
 
+The methods should have capabilities to handle various field and decimal delimiters and be able to define descriptive metadata at table level (use [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/), e.g.: creator, description, license) at a minimum.
 
 ## Materials
 
@@ -33,7 +36,7 @@ Implement two python methods to import and export CSV/CSVW pairs into and from `
   - *source: https://www.gov.uk/government/publications/recommended-open-standards-for-government/tabular-data-standard#how-to-use-this-standard*
 
 - making use of the header row is strongly recommended, since it's the only way to incorporate meaning into the file.
-- use [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) for dates and times
+- use the XML Schema definitions to format temporal data, e.g.: https://www.w3.org/TR/xmlschema-2/#dateTime 
 - delimit decimals with a dot (`.`)
 
 ### CSVW
@@ -64,4 +67,9 @@ The dialect object cannot handle footer rows.
 - CSV-X (describe any csv, regardless of its weirdness): https://ieeexplore.ieee.org/document/7917195 
 - Frictionlessdata.io supports CSV-Dialect: https://specs.frictionlessdata.io/csv-dialect/#language 
 
+
+## License
+
+Excluding the data folder, all contents of this repository are licensed under the Creative Commons Zero v1.0 Universal License.
+See https://creativecommons.org/publicdomain/zero/1.0/ for more information.
 
