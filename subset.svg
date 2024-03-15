@@ -1,0 +1,296 @@
+<svg version="1.1"
+    xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1675.65655558748 1277.350282197772" width="1675.65655558748" height="1277.350282197772">
+    <!-- svg-source:excalidraw -->
+
+    <defs>
+        <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+      @font-face {
+        font-family: "Assistant";
+        src: url("https://excalidraw.com/Assistant-Regular.woff2");
+      }
+        </style>
+
+    </defs>
+    <rect x="0" y="0" width="1675.65655558748" height="1277.350282197772" fill="#ffffff"></rect>
+    <g stroke-linecap="round" transform="translate(442.8887410690303 73.20660713772213) rotate(0 107.00854873642719 131.6098715196601)">
+        <path d="M0 0 C57.39 2.01, 116.14 1.75, 214.02 0 M0 0 C54.64 -0.88, 110.18 -1.33, 214.02 0 M214.02 0 C214.57 79.04, 215.3 158.56, 214.02 263.22 M214.02 0 C213.43 57.91, 213.54 116.21, 214.02 263.22 M214.02 263.22 C162.26 264.62, 107.63 264.29, 0 263.22 M214.02 263.22 C169.36 262.56, 125.65 262.72, 0 263.22 M0 263.22 C2.51 173.25, 2.24 83.8, 0 0 M0 263.22 C-2.21 185.19, -1.29 108.83, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(443.113921601437 124.68003827343296) rotate(0 103.4963848448233 0)">
+            <path d="M1.18 0.27 C35.87 0.24, 173.74 -0.61, 207.99 -0.51 M0.34 -0.63 C34.98 -0.47, 173.34 0.83, 207.57 0.76" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(510.51249057206127 88.14952150875092) rotate(0 46.875 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">table {}</text>
+    </g>
+    <g transform="translate(472.07301884914864 140.90288040412588) rotate(0 76.171875 60)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- @context</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- url</text>
+        <text x="0" y="48" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- dialect</text>
+        <text x="0" y="72" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- tableSchema</text>
+        <text x="0" y="96" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge"></text>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(443.70886979789634 270.5510333388994) rotate(0 103.19891074659364 0)">
+            <path d="M0.71 -0.62 C35.3 -0.88, 172.98 -0.85, 207.13 -0.83" stroke="#1e1e1e" stroke-width="1.5" fill="none" stroke-dasharray="8 9"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(453.403221187508 273.93398755973107) rotate(0 93.75 24)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- dc:title</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- dc:description</text>
+    </g>
+    <g stroke-linecap="round" transform="translate(10 567.0393646145685) rotate(0 135.06076049804688 196.26756159527395)">
+        <path d="M0 0 C59.69 -3.39, 116.11 -0.54, 270.12 0 M0 0 C89.21 0.52, 179.3 0.82, 270.12 0 M270.12 0 C269.6 156.68, 271.06 312, 270.12 392.54 M270.12 0 C272 151.31, 272.71 303.15, 270.12 392.54 M270.12 392.54 C214 394.98, 156.54 392.25, 0 392.54 M270.12 392.54 C170.03 395.06, 68.89 394.19, 0 392.54 M0 392.54 C0.06 292.53, 0.14 189.76, 0 0 M0 392.54 C1.25 299.75, 1.43 208.58, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(12.42535400390625 605.5959747219904) rotate(0 134.69192504882812 -0.861907958984375)">
+            <path d="M-1.18 -0.98 C43.71 -1.33, 225.3 -1.12, 270.39 -1.34 M0.41 1.12 C45.13 0.33, 225.27 -2.85, 269.96 -3.26" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(111.5290922061447 573.4192169094904) rotate(0 58.59375 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dialect {}</text>
+    </g>
+    <g stroke-linecap="round" transform="translate(851.5306619906567 379.1874032311839) rotate(0 135.06076049804688 42.674099375324545)">
+        <path d="M0 0 C107.86 -2.06, 213.83 -1.81, 270.12 0 M0 0 C91.63 -2.28, 183.61 -2, 270.12 0 M270.12 0 C271.09 22.78, 269.56 39.96, 270.12 85.35 M270.12 0 C268.72 24, 269.44 48.91, 270.12 85.35 M270.12 85.35 C210.63 85.35, 148.87 82.48, 0 85.35 M270.12 85.35 C183.34 84.5, 97.28 83.42, 0 85.35 M0 85.35 C-0.49 56.82, -0.6 31.39, 0 0 M0 85.35 C0.61 58.17, -0.31 31.39, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(853.9560159945629 417.7440133386058) rotate(0 134.69192504882812 -0.861907958984375)">
+            <path d="M-0.6 -0.52 C44.1 -0.8, 224.1 -1.18, 268.97 -1.23 M1.28 1.83 C45.73 1.14, 222.83 -2.35, 267.8 -3.1" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(927.4631356335236 383.6712097066037) rotate(0 82.03125 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">tableSchema {}</text>
+    </g>
+    <g stroke-linecap="round" transform="translate(645.4889124792866 563.1697545357838) rotate(0 178.59835001986733 208.5860650745194)">
+        <path d="M0 0 C77.1 -1.16, 153.01 -1.94, 357.2 0 M0 0 C119.21 0.42, 238.41 -0.02, 357.2 0 M357.2 0 C355.32 158.15, 355.81 314.49, 357.2 417.17 M357.2 0 C358.43 147.52, 357.7 295.09, 357.2 417.17 M357.2 417.17 C222.86 415.95, 88.57 414.72, 0 417.17 M357.2 417.17 C277.41 418.11, 197.13 417.83, 0 417.17 M0 417.17 C-0.69 320.28, -0.38 223.73, 0 0 M0 417.17 C-0.4 275.6, -0.4 133.23, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(652.2680254353749 598.4610454290691) rotate(0 168.5252627340805 0)">
+            <path d="M0.44 -0.45 C56.42 -0.44, 280.76 0.39, 336.75 0.41 M-0.79 -1.74 C54.93 -2.12, 279.64 -1.93, 335.65 -1.5" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(712.3077880857207 567.7132875616279) rotate(0 111.328125 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">columns [{},{},...]</text>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(655.3837977577167 901.005880992023) rotate(0 164.79049709681857 0)">
+            <path d="M0.55 0.5 C55.2 0.69, 273.85 0.45, 328.58 0.48" stroke="#1e1e1e" stroke-width="1.5" fill="none" stroke-dasharray="8 9"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(656.3007492567386 913.1429411080359) rotate(0 164.0625 24)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- dc:description</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#868e96" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- sdmx-attribute:unitMeasure</text>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(205.7017025730289 550.9491637078629) rotate(0 125.75431243956157 -175.99085861225615)">
+            <path d="M0 0 C0.1 -81.3, 0.67 -162.26, 3.15 -351.42 M0 0 C0.85 -128.13, 2.02 -256.77, 3.15 -351.42 M3.15 -351.42 C60.65 -349.58, 114.77 -349.59, 251.51 -351.98 M3.15 -351.42 C60.31 -350.78, 118.06 -351.11, 251.51 -351.98" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(205.7017025730289 550.9491637078629) rotate(0 125.75431243956157 -175.99085861225615)">
+            <path d="M1.41 0.56 L-6.89 -12.66 L6.06 -12.48 L-0.77 -1.35" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-0.25 -3.15, -1.87 -5.92, -6.25 -13.64 M0 0 C-1.95 -4.8, -4.21 -10.13, -6.25 -13.64 M-6.25 -13.64 C-2.23 -13.44, -0.82 -13.34, 6.43 -13.55 M-6.25 -13.64 C-3.46 -13.28, -0.21 -13.42, 6.43 -13.55 M6.43 -13.55 C4.72 -7.96, 2.61 -6.11, 0 0 M6.43 -13.55 C4.95 -8.62, 2.14 -5.43, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(989.3884124115305 362.68996057144756) rotate(0 -174.37027338139694 -68.73249965470737)">
+            <path d="M0 0 C-2.08 -30.35, -5.28 -55.45, -9.26 -135.87 M0 0 C-1.37 -31.79, -3.47 -61.72, -9.26 -135.87 M-9.26 -135.87 C-98.5 -137.34, -188.68 -138.15, -348.74 -137.46 M-9.26 -135.87 C-93.68 -137.84, -179.14 -138, -348.74 -137.46" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(989.3884124115305 362.68996057144756) rotate(0 -174.37027338139694 -68.73249965470737)">
+            <path d="M-0.7 0.47 L-7.55 -11.89 L5.69 -13.36 L-0.49 -0.46" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-0.97 -4.05, -3.45 -4.16, -7.36 -13.07 M0 0 C-1.5 -3.7, -3.18 -6.01, -7.36 -13.07 M-7.36 -13.07 C-3.17 -13.42, 0.14 -14.04, 5.28 -14.04 M-7.36 -13.07 C-3.77 -13.03, -1.17 -13.05, 5.28 -14.04 M5.28 -14.04 C4.87 -8.43, 3.24 -5.8, 0 0 M5.28 -14.04 C3.78 -9.27, 1.82 -4.27, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(805.4160194776329 558.1335703201271) rotate(0 31.264360172279794 -58.18581729094845)">
+            <path d="M0 0 C-3.07 -42.95, -2.75 -84.79, -2.15 -116.32 M0 0 C0.22 -45.93, -0.95 -93.11, -2.15 -116.32 M-2.15 -116.32 C16.63 -115.48, 37.97 -115.32, 64.68 -116.37 M-2.15 -116.32 C13.28 -116.47, 28.06 -116.77, 64.68 -116.37" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(805.4160194776329 558.1335703201271) rotate(0 31.264360172279794 -58.18581729094845)">
+            <path d="M0.62 -1.7 L-5.14 -13.51 L5.08 -14.63 L1.85 -0.68" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-3.85 -5.47, -5.47 -10.08, -6.74 -13.4 M0 0 C-2.33 -5, -5.25 -10.98, -6.74 -13.4 M-6.74 -13.4 C-4.02 -13.19, 0.32 -13.2, 5.93 -13.78 M-6.74 -13.4 C-3.84 -13.28, -1.35 -13.55, 5.93 -13.78 M5.93 -13.78 C2.92 -7.58, 1.69 -4.71, 0 0 M5.93 -13.78 C4.33 -10.7, 2.9 -6.99, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(21.57270927389243 631.6461475553563) rotate(0 105.46875 155.99999999999997)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- commentPrefix</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- DoubleQuote</text>
+        <text x="0" y="48" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- delimiter</text>
+        <text x="0" y="72" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- encoding</text>
+        <text x="0" y="96" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- header</text>
+        <text x="0" y="120" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- headerRowCount</text>
+        <text x="0" y="144" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- LineTerminators</text>
+        <text x="0" y="168" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- quoteChar</text>
+        <text x="0" y="192" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- skipBlankRows</text>
+        <text x="0" y="216" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- skipColumns</text>
+        <text x="0" y="240" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- skipInitialSpace</text>
+        <text x="0" y="264" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- skipRows</text>
+        <text x="0" y="288" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- trim</text>
+    </g>
+    <g transform="translate(888.6791948087779 432.9982962495271) rotate(0 52.734375 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- columns</text>
+    </g>
+    <g transform="translate(670.3172679181562 621.897876378596) rotate(0 111.328125 72)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">for each column {}:</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- name</text>
+        <text x="0" y="48" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- titles</text>
+        <text x="0" y="72" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- required</text>
+        <text x="0" y="96" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- datatype</text>
+        <text x="0" y="120" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- ...</text>
+    </g>
+    <a href="http://purl.org/linked-data/sdmx/2009/attribute#">
+        <g transform="translate(527.8201019722399 1008.316638223918) rotate(0 197.9044189453125 20)">
+            <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">sdmx-attribute:</text>
+            <text x="0" y="20" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">http://purl.org/linked-data/sdmx/2009/attribute#</text>
+        </g>
+    </a>
+    <g stroke-linecap="round">
+        <g transform="translate(668.9673445219471 967.3272603656739) rotate(0 -15.021024291152273 17.067809453031032)">
+            <path d="M0.75 0.31 C-4.44 6.06, -25.49 29.57, -30.63 35.29 M-0.32 -0.57 C-5.15 4.8, -23.13 28.25, -28.23 33.78" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(668.9673445219471 967.3272603656739) rotate(0 -15.021024291152273 17.067809453031032)">
+            <path d="M0.29 2.02 L-2.23 13.43 L-11.77 7.11 L1.19 1.08" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0.75 0.31 C-0.24 4.48, -0.67 10.02, -3.61 14.67 M0.75 0.31 C-0.71 5.22, -1.61 9.93, -3.61 14.67 M-3.61 14.67 C-5.36 12.34, -10.19 10.19, -13.05 6.2 M-3.61 14.67 C-7.22 11.74, -11.23 8.59, -13.05 6.2 M-13.05 6.2 C-7.42 3.74, -3.22 3.82, 0.75 0.31 M-13.05 6.2 C-7.88 3.41, -3.33 1.77, 0.75 0.31 M0.75 0.31 C0.75 0.31, 0.75 0.31, 0.75 0.31 M0.75 0.31 C0.75 0.31, 0.75 0.31, 0.75 0.31" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round">
+        <g transform="translate(1061.2645042040958 928.0153075242126) rotate(0 -123.79775764712164 -100.40700567594556)">
+            <path d="M0 0 C-49.56 -55.82, -98.9 -112.39, -175.71 -198.75 M0 0 C-51.31 -56.16, -100.72 -112.33, -175.71 -198.75 M-175.71 -198.75 C-199.61 -199.17, -226.22 -200.35, -247.6 -200.81 M-175.71 -198.75 C-198.24 -199.82, -223.4 -200.75, -247.6 -200.81" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(1061.2645042040958 928.0153075242126) rotate(0 -123.79775764712164 -100.40700567594556)">
+            <path d="M0.92 -1.38 L-12.02 -4.12 L-2.46 -15.33 L1.05 -0.03" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-4.85 -1.8, -8.41 -3.85, -13.75 -6 M0 0 C-4.56 -1.47, -7.95 -2.85, -13.75 -6 M-13.75 -6 C-10.25 -8.25, -8.45 -11.39, -4.24 -14.39 M-13.75 -6 C-10.09 -9.16, -8.11 -12.05, -4.24 -14.39 M-4.24 -14.39 C-2 -10.63, -2.14 -5.58, 0 0 M-4.24 -14.39 C-3.02 -9.6, -1.05 -5.49, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round" transform="translate(1073.302119474944 935.2698972869171) rotate(0 135.06076049804688 83.21901507569697)">
+        <path d="M0 0 C57.27 -1.99, 116.46 -1.64, 270.12 0 M0 0 C55.41 -0.2, 110.46 -1.27, 270.12 0 M270.12 0 C269.75 53.4, 270.51 106.08, 270.12 166.44 M270.12 0 C268.91 42.23, 270.07 86.85, 270.12 166.44 M270.12 166.44 C186.52 167.38, 101.39 167.78, 0 166.44 M270.12 166.44 C195.24 165.18, 118.33 165.79, 0 166.44 M0 166.44 C0.52 111.41, 2.78 51.19, 0 0 M0 166.44 C-1.36 131.85, -1.33 95.88, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(1075.7274734788502 973.8265073943389) rotate(0 134.69192504882812 -0.861907958984375)">
+            <path d="M-1.14 -0.68 C43.57 -0.97, 223.52 -2.75, 268.51 -2.85 M0.47 1.58 C45.52 1.49, 226.21 -1.08, 270.77 -1.91" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(1104.184686784064 942.2109713805413) rotate(0 105.46875 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">(derived) datatype</text>
+    </g>
+    <g transform="translate(1110.7200028250427 989.0807903052603) rotate(0 46.875 48)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- base</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- format</text>
+        <text x="0" y="48" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- length</text>
+        <text x="0" y="72" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- ...</text>
+    </g>
+    <g stroke-linecap="round" transform="translate(1394.2430885278231 955.434845298385) rotate(0 135.06076049804688 55.77952667241465)">
+        <path d="M0 0 C86.19 0.49, 172.82 -0.18, 270.12 0 M0 0 C57.37 0.72, 115.5 0.94, 270.12 0 M270.12 0 C269.58 28, 271.03 59.2, 270.12 111.56 M270.12 0 C271.08 30.67, 271.24 61.03, 270.12 111.56 M270.12 111.56 C179.63 112.99, 88.14 111.1, 0 111.56 M270.12 111.56 C162.06 109.31, 56 109.63, 0 111.56 M0 111.56 C-1.01 70.98, -0.73 29.76, 0 0 M0 111.56 C1.15 70.7, 0.16 28.32, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(1396.6684425317294 993.9914554058068) rotate(0 134.69192504882812 -0.861907958984375)">
+            <path d="M0.12 -0.5 C44.98 -0.89, 224.3 -2.44, 268.99 -2.75 M-1.28 -1.8 C43.41 -2.04, 222.53 -1.83, 267.83 -1.75" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(1497.2055059709382 962.3759193920093) rotate(0 35.15625 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">format</text>
+    </g>
+    <g transform="translate(1431.6609718779216 1009.2457383167282) rotate(0 76.171875 24)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- decimalChar</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- pattern</text>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(1384.3258837419778 974.2478814090425) rotate(0 -83.9594647221588 25.221209385949237)">
+            <path d="M0 0 C-21.55 13.19, -41.45 28.31, -74.53 48.13 M0 0 C-21.67 13.65, -41.33 26.5, -74.53 48.13 M-74.53 48.13 C-107.88 49.53, -138.45 48.86, -167.92 50.44 M-74.53 48.13 C-98.99 48.47, -124.08 47.72, -167.92 50.44" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(1384.3258837419778 974.2478814090425) rotate(0 -83.9594647221588 25.221209385949237)">
+            <path d="M1.22 1.07 L-7.5 11.82 L-15.02 4.08 L-1.5 1.42" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-2.25 3.18, -3.33 7.79, -7.88 12.76 M0 0 C-2.72 4.01, -4.04 7.12, -7.88 12.76 M-7.88 12.76 C-10.8 9.56, -12.06 4.95, -14.84 2.17 M-7.88 12.76 C-9.51 10.14, -11.48 6.44, -14.84 2.17 M-14.84 2.17 C-9.65 0.87, -6.54 2.06, 0 0 M-14.84 2.17 C-10.05 1.25, -7.16 0.84, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g stroke-linecap="round" transform="translate(1083.6714190842197 546.6767599638115) rotate(0 135.06076049804688 121.25773218697418)">
+        <path d="M0 0 C73.03 3.25, 146.48 1.98, 270.12 0 M0 0 C61.51 -0.24, 122.76 -0.29, 270.12 0 M270.12 0 C270.55 68.91, 271.5 135.72, 270.12 242.52 M270.12 0 C271.48 68.82, 270.48 138.92, 270.12 242.52 M270.12 242.52 C198.55 242.43, 127.98 241.94, 0 242.52 M270.12 242.52 C203.84 240.85, 139.03 241.61, 0 242.52 M0 242.52 C2.19 147.15, 1.44 54.34, 0 0 M0 242.52 C0.04 167.34, -1.16 92.52, 0 0" stroke="#000000" stroke-width="1" fill="none"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(1086.096773088126 585.2333700712334) rotate(0 134.69192504882812 -0.861907958984375)">
+            <path d="M0.97 -0.98 C46.05 -1.3, 224.61 -2.53, 269.38 -2.6 M0.02 1.12 C45.04 0.98, 223.6 -1.35, 268.43 -1.52" stroke="#000000" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(1109.5488920365926 553.6178340574359) rotate(0 111.328125 12)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">(built-in) datatype</text>
+    </g>
+    <g transform="translate(1121.0893024343181 600.4876529821547) rotate(0 58.59375 84)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- boolean</text>
+        <text x="0" y="24" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- data</text>
+        <text x="0" y="48" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- datetime</text>
+        <text x="0" y="72" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- number</text>
+        <text x="0" y="96" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- integer</text>
+        <text x="0" y="120" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- string</text>
+        <text x="0" y="144" font-family="Cascadia, Segoe UI Emoji" font-size="20px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">- ...</text>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(1069.115257829468 574.7910647916347) rotate(0 -91.59322672847013 77.10278925573229)">
+            <path d="M0 0 C-48.02 39.62, -95.31 80.9, -183.19 154.21 M0 0 C-72.78 58.71, -144.27 120.25, -183.19 154.21" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+        <g transform="translate(1069.115257829468 574.7910647916347) rotate(0 -91.59322672847013 77.10278925573229)">
+            <path d="M-0.39 0.52 L-6.79 14.75 L-15.94 2.36 L-0.49 -1.72" stroke="none" stroke-width="0" fill="#ffffff" fill-rule="evenodd"></path>
+            <path d="M0 0 C-1.72 3.85, -2.38 7.92, -6.31 13.61 M0 0 C-2.61 4.79, -4.51 10.87, -6.31 13.61 M-6.31 13.61 C-8.54 10.07, -12.97 6.81, -14.48 3.92 M-6.31 13.61 C-9.49 10.65, -11.94 7.68, -14.48 3.92 M-14.48 3.92 C-7.61 2.7, -2.86 -0.44, 0 0 M-14.48 3.92 C-10.93 3.02, -7.16 1.89, 0 0 M0 0 C0 0, 0 0, 0 0 M0 0 C0 0, 0 0, 0 0" stroke="#1e1e1e" stroke-width="1" fill="none"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(1128.1753712390828 846.6036247947862) rotate(0 164.600341796875 40)">
+        <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">allows to change the default description </text>
+        <text x="0" y="20" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">of built-in datatypes. E.g., changing the </text>
+        <text x="0" y="40" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">decimal separator to a comma or defining</text>
+        <text x="0" y="60" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">a new pattern for dates.</text>
+    </g>
+    <a href="https://www.w3.org/TR/tabular-metadata/#built-in-datatypes">
+        <g transform="translate(1209.257899818384 757.0251717008824) rotate(0 60.32048034667969 10)">
+            <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">🌐[[all types]]</text>
+        </g>
+    </a>
+    <g transform="translate(720.4702570188949 41.11994180458581) rotate(0 243.75 76.8)">
+        <text x="0" y="0" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">Predefined Namespaces</text>
+        <text x="0" y="19.2" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">csvw:    http://www.w3.org/ns/csvw#</text>
+        <text x="0" y="38.4" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dc:      http://purl.org/dc/terms/</text>
+        <text x="0" y="57.599999999999994" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">dcat:    http://www.w3.org/ns/dcat#</text>
+        <text x="0" y="76.8" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">foaf:    http://xmlns.com/foaf/0.1/</text>
+        <text x="0" y="96" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">rdf:     http://www.w3.org/1999/02/22-rdf-syntax-ns#</text>
+        <text x="0" y="115.19999999999999" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">schema:  http://schema.org/</text>
+        <text x="0" y="134.4" font-family="Cascadia, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">xsd:     http://www.w3.org/2001/XMLSchema#</text>
+    </g>
+    <g stroke-linecap="round" transform="translate(706.7438723332378 32.48250370292635) rotate(0 257.5172999179295 82.97779664022175)">
+        <path d="M0 0 C195.28 -0.08, 391.68 -0.4, 515.03 0 M515.03 0 C516.68 43.15, 516.94 89.72, 515.03 165.96 M515.03 165.96 C357.33 167.78, 199.43 168.36, 0 165.96 M0 165.96 C-0.31 131.03, 2.93 97.32, 0 0" stroke="#1e1e1e" stroke-width="1.5" fill="none" stroke-dasharray="1.5 7"></path>
+    </g>
+    <g stroke-linecap="round">
+        <g transform="translate(399.7077557158467 10) rotate(0 -2.842170943040401e-14 628.675141098886)">
+            <path d="M0 0 C0 355.22, 0 710.44, 0 1257.35" stroke="#1e1e1e" stroke-width="2.5" fill="none" stroke-dasharray="8 10"></path>
+        </g>
+    </g>
+    <mask></mask>
+    <g transform="translate(28.328624638689007 1147.3828652453062) rotate(0 164.53802490234375 38.07729071212577)">
+        <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="60.92366513940123px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">csv format</text>
+    </g>
+    <g transform="translate(471.0196307351075 1145.4409408542433) rotate(0 452.1101989746094 37.10371004261776)">
+        <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="59.365936068188425px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">semantics, column data format</text>
+    </g>
+    <a href="https://www.w3.org/TR/tabular-metadata/#columns">
+        <g transform="translate(679.7997542266681 780.7158001638824) rotate(0 105.84857177734375 10)">
+            <text x="0" y="0" font-family="Virgil, Segoe UI Emoji" font-size="16px" fill="#1e1e1e" text-anchor="start" style="white-space: pre;" direction="ltr" dominant-baseline="text-before-edge">🌐[[all column properties]]</text>
+        </g>
+    </a>
+</svg>

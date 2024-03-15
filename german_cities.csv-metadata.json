@@ -1,0 +1,44 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "german_cities.csv",
+    "dc:title": "Selection of German Cities",
+    "dc:description": "Example table for a workshop",
+    "dialect": {
+        "delimiter": "\t"
+    },
+    "tableSchema": {
+        "columns": [
+            {
+                "titles": "City",
+                "datatype": "string"
+            },
+            {
+                "titles": "Population [10^6]",
+                "dc:description": "Population in millions",
+                "datatype": {
+                    "base": "decimal",
+                    "format": {
+                        "decimalChar": ","
+                    }
+                }
+            },
+            {
+                "titles": "Area [km^2]",
+                "dc:description": "Area in square kilometers",
+                "datatype": {
+                    "base": "decimal",
+                    "format": {
+                        "decimalChar": ","
+                    }
+                },
+                "<http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure>": {
+                    "@id": "<http://qudt.org/vocab/unit/KiloM2>"
+                }
+            },
+            {
+                "titles": "Postal Code",
+                "datatype": "string"
+            }
+        ]
+    }
+}

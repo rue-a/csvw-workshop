@@ -1,0 +1,53 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "url": "44211-11i_00.csv",
+    "dc:title": "Bruttoanlageninvestitionen - kreisfreie Städte und Kreise -Jahr",
+    "dialect": {
+        "encoding": "windows-1252",
+        "skipRows": 6,
+        "delimiter": ";",
+        "header": false
+    },
+    "tableSchema": {
+        "columns": [
+            {
+                "name": "jahr",
+                "dc:description": "Jahr",
+                "datatype": "gYear"
+            },
+            {
+                "name": "amtlicher_gemeindeschluessel",
+                "dc:description": "Amtlicher Gemeindeschlüssel: Stelle 1-2: Bundesland, Stelle 3-5: Kreis, Stelle 6-8: Gemeinde (siehe: https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel)",
+                "datatype": "string"
+            },
+            {
+                "name": "bundesland",
+                "dc:description": "Name des Bundeslandes in der die betreffende Gemiende liegt.",
+                "datatype": "string"
+            },
+            {
+                "titles": "Aktivierte Bruttoanlageinvestitionen",
+                "dc:description": "in Tsd. EUR",
+                "datatype": "integer"
+            },
+            {
+                "titles": "Aktivierte Bruttoanlageninvestitionen je Beschäftigten",
+                "dc:description": "in EUR",
+                "datatype": "integer"
+            },
+            {
+                "titles": "Verhältnis zum Umsatz (Akt. Bruttoanlageninvestitionen)",
+                "dc:description": "in Prozent",
+                "datatype": {
+                    "base": "decimal",
+                    "format": {
+                        "decimalChar": ","
+                    }
+                },
+                "<http://purl.org/linked-data/sdmx/2009/attribute#unitMeasure>": {
+                    "@id": "<http://qudt.org/vocab/unit/PERCENT>"
+                }
+            }
+        ]
+    }
+}
