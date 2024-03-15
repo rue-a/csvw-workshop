@@ -10,7 +10,7 @@ The workshop participants will implement functions that allow the import and exp
 
 Implement two python methods to import and export CSV/CSVW pairs into and from `pandas.DataFrame` objects. Suggestions of function bodies are defined in `python/read_csv_metadata.py` and `python/write_csv_metadata.py`. Find example data in the `data` folder.
 
-The methods should have capabilities to handle various field and decimal delimiters and be able to define descriptive metadata at table level (use [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/), e.g.: creator, description, license) at a minimum.
+As a first step, the methods should be able to handle the according example data (use [Dublin Core](https://www.dublincore.org/specifications/dublin-core/dcmi-terms/) for descriptive metadata, e.g.: creator, description, license). 
 
 ## Materials
 
@@ -41,7 +41,7 @@ The methods should have capabilities to handle various field and decimal delimit
 
 ### CSVW
 
-CSVW defines a schema to describe CSV files with an accompanying JSON-LD file.
+CSVW defines a schema to describe CSV files with an accompanying JSON-LD file (naming scheme: `<csv-filename>.csv-metadata.json`).
 
 CSVW is designed to not only describe CSV data file, but to also validate its contents and allow the transformation of the data into linked data formats. Additionally, CSVW allows describing multiple CSVs with one CSVW file; including the relations between the described files, by the means of primary and foreign keys.
 
@@ -50,7 +50,7 @@ CSVW is designed to not only describe CSV data file, but to also validate its co
 - JSON-LD: https://json-ld.org/
 
 
-__This workshop focuses on the subset of CSVW that allows to describe the dialect, general metadata and the tables columns in detail. We also disregard the option to describe multiple CSVs in one CSVW file.__
+__This workshop focuses on the subset of CSVW that allows to describe the dialect, general metadata and the tables columns in detail. The option to describe multiple CSVs in one CSVW file is disregarded as well.__
 
 CSVW-Subset:
 ![](assets/subset.svg)

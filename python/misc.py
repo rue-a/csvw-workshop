@@ -1,14 +1,14 @@
 # %%
 import pandas as pd
 
-df = pd.read_csv("german_cities.csv")
+df = pd.read_csv("../data/german_cities.csv")
 df.head()
 
 # %%
 import pandas as pd
 
 df = pd.read_csv(
-    "german_cities.csv",
+    "../data/german_cities.csv",
     sep="\t",
     decimal=",",
     dtype={"Postal Code": str},
@@ -28,7 +28,7 @@ https://de.wikipedia.org/wiki/Amtlicher_Gemeindeschl%C3%BCssel
 import pandas as pd
 
 df = pd.read_csv(
-    "44211-11i_00.csv",
+    "../data/44211-11i_00.csv",
     encoding="windows-1252",
     skiprows=6,
     skipfooter=3,
