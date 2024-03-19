@@ -1,0 +1,7 @@
+Dataset:
+  description: Data used for examples an tasks of the workshop
+  maintainer: 
+    - name: Arne Rümmler
+      jobTitle: Data Steward
+  version: 1.0.0
+  conditionsOfAccess: public
