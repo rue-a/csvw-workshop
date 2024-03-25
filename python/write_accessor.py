@@ -46,3 +46,11 @@ class CSVWDataFrameAccessor:
             ],
             **kwargs
         )
+
+
+def read_csvw(file_path, **kwargs):
+    df = pd.read_csv(file_path, **kwargs)
+    return CSVWDataFrameAccessor(df).read(file_path, **kwargs)
+
+
+pd.read_csvw = read_csvw
