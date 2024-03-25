@@ -39,7 +39,6 @@ class CSVWDataFrameAccessor:
         return pd.read_csv(
             buffer,
             sep=self._obj.attrs["dialect"]["delimiter"],
-            decimal=",",
             names=[
                 column["titles"] if "titles" in column else ""
                 for column in self.meta.data["tableSchema"]["columns"]
