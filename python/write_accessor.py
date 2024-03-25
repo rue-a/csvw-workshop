@@ -19,5 +19,5 @@ class CSVWDataFrameAccessor:
         self._obj.to_csv(file_path, **kwargs)
         if len(self._obj.attrs) > 0:
             json_path = file_path + self.METADATA_FILE_SUFFIX
-            with open(json_path, "w") as fobj:
+            with open(json_path, "w", encoding="utf-8") as fobj:
                 json.dump(self._obj.attrs, fobj)
