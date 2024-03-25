@@ -1,4 +1,6 @@
+from io import StringIO
 import json
+from pathlib import Path
 
 import pandas as pd
 
@@ -21,3 +23,26 @@ class CSVWDataFrameAccessor:
             json_path = file_path + self.METADATA_FILE_SUFFIX
             with open(json_path, "w", encoding="utf-8") as fobj:
                 json.dump(self._obj.attrs, fobj)
+
+    def read(self, file_path, **kwargs):
+        metadata_file = file_path + self.METADATA_FILE_SUFFIX
+        if not Path(metadata_file).exists():
+            return self._obj
+
+        with open(metadata_file, "r") as file_obj:
+            self._obj.attrs = json.load(file_obj)
+
+        buffer = StringIO()
+        self._obj.to_csv(buffer)
+        buffer.seek(0)
+
+        return pd.read_csv(
+            buffer,
+            sep=self._obj.attrs["dialect"]["delimiter"],
+            decimal=",",
+            names=[
+                column["titles"] if "titles" in column else ""
+                for column in self.meta.data["tableSchema"]["columns"]
+            ],
+            **kwargs
+        )
